@@ -1,25 +1,12 @@
-# ReduxSimpleStarter
+# client-auth-boilerplate
+Token-based authentication client boilerplate using React and Redux  
+*Use together with server-auth-boilerplate*
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
-
-###Getting Started###
-
-There are two methods for getting started with this repo.
-
-####Familiar with Git?#####
-Checkout this repo, install depdencies, then start the gulp process with the following:
-
+## Getting Started
+Checkout this repo, install depdencies, then start the webpack dev server:
 ```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
-	> npm install
-	> npm start
-```
-
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
+	> git clone https://github.com/NicholasAsimov/client-auth-boilerplate.git
+	> cd client-auth-boilerplate
 	> npm install
 	> npm start
 ```
