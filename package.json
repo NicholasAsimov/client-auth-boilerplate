@@ -2,7 +2,7 @@
   "name": "client-auth-boilerplate",
   "version": "1.0.0",
   "description": "Token-based authentication client boilerplate",
-  "repository": "https://github.com/NicholasAsimov/server-auth-boilerplate.git",
+  "repository": "https://github.com/NicholasAsimov/client-auth-boilerplate.git",
   "main": "index.js",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
